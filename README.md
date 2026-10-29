@@ -1,5 +1,17 @@
-## Hi there 👋
+# Olá, sou o Alexandre 👋
 
+AI Solutions Engineer na Amorim Global, onde desenho e entrego sistemas de IA e automação que rodam em produção. Estudo Inteligência Artificial na FIAP.
+
+## O que eu construo
+- **Automação CRM → financeiro:** integração via API que transforma uma negociação em venda registrada, com validação de dados, prevenção de duplicidade, retry automático e rastreabilidade
+- **Painéis e índice de contratos:** dados comerciais, jurídicos e de adimplência centralizados, com disparo automático de vendas e e-mails de inadimplência
+- **FlexMed:** totem de autoatendimento para farmácias com atendimento em Libras e visão computacional rodando localmente (3º lugar no Next da FIAP)
+
+## Stack e foco
+Agentes de IA · Automação de processos · Integração de APIs · Python · n8n
+
+## Contato
+[LinkedIn](https://linkedin.com/in/seu-perfil) · seu@email.com
 <!--
 **AleIAutomations/AleIAutomations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
