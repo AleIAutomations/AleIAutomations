@@ -11,7 +11,7 @@ AI Solutions Engineer na Amorim Global, onde desenho e entrego sistemas de IA e 
 Agentes de IA · Automação de processos · Integração de APIs · Python · n8n
 
 ## Contato
-[LinkedIn](https://linkedin.com/in/seu-perfil) · seu@email.com
+[LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/alexandre-silva-8512a32a8?utm_source=share_via&utm_content=profile&utm_medium=member_ios)) · ale87041729@gmail.com
 <!--
 **AleIAutomations/AleIAutomations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
