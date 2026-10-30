@@ -3,7 +3,7 @@
 Estagiário de AI Solutions Engineer na Amorim Global, onde desenho e entrego sistemas de IA e automação que rodam em produção. 
 Estudante de Inteligência Artificial na FIAP e esperando a Graduação de Engenharia de Software começar.
 
-## O que eu  já construo
+## O que eu  já construi
 - **Automação CRM → financeiro:** integração via API que transforma uma negociação em venda registrada, com validação de dados, prevenção de duplicidade, retry automático e rastreabilidade
 - **Painéis e índice de contratos:** dados comerciais, jurídicos e de adimplência centralizados, com disparo automático de vendas e e-mails de inadimplência
 - **FlexMed:** totem de autoatendimento para farmácias com atendimento em Libras e visão computacional rodando localmente (3º lugar no Next da FIAP)
