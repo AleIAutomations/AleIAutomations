@@ -9,7 +9,7 @@ Estudante de Inteligência Artificial na FIAP e esperando a Graduação de Engen
 - **FlexMed:** totem de autoatendimento para farmácias com atendimento em Libras e visão computacional rodando localmente (3º lugar no Next da FIAP)
 
 ## Stack e foco
-Agentes de IA · Automação de processos · Integração de APIs · Python 
+Agentes de IA · Automação de processos · Integração de APIs · Python · Desenvolvimento de Software
 
 ## Contato
 [LinkedIn: https://www.linkedin.com/in/alexandre-silva-8512a32a8?utm_source=share_via&utm_content=profile&utm_medium=member_ios ] · ale87041729@gmail.com
